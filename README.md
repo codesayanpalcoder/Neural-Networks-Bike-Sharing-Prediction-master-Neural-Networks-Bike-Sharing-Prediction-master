@@ -20,7 +20,6 @@ To run this project follow these steps:
 
 * Make sure you have Anaconda or Miniconda Package manager installed.
 * Open Terminal and type the following commands:
-* Clone this repository: `git clone https://github.com/anubhavshrimal/Bike-Sharing-Prediction-Neural-Networks.git`
 * `cd Bike-Sharing-Prediction-Neural-Networks`
 * `conda env create -f environment.yaml`
 * `source activate bike-sharing-prediction`
